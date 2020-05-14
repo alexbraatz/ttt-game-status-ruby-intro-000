@@ -35,6 +35,7 @@ def won?(board)
   end
   return false
 end
+<<<<<<< HEAD
 
 def full?(board)
   board.all? do |char|
@@ -69,3 +70,5 @@ def winner(board)
     return "O"
   end
 end
+=======
+>>>>>>> e7d2cfcedf1f9b9eee04bc3783e2756c6e864d2c
